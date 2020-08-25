@@ -5,11 +5,11 @@ This project shows how to inject Unity modules during runtime into il2cpp Unity 
 
 ## Features
  - WinRace - teleports to the finish line on applicable stages
-![Win Race](https://i.imgur.com/8xDo426.gif)
+![Win Race](demo/winrace.gif)
  - Freeze Position - freezes current position to prevent falling
-![Freeze Position](https://i.imgur.com/V7r2ccs.gif)
+![Freeze Position](demo/freezepos.gif)
  - LevelHelper - removes fake doors/tiles
-![Level Helper](https://i.imgur.com/AnMdmx3.gif)
+![Level Helper](demo/levelhelper.gif)
  
 ## Todo / current issues
  - Occasionally crashes on injection
