@@ -1,0 +1,9 @@
+[submodule "Il2CppAssemblyUnhollower"]
+	path = Il2CppAssemblyUnhollower
+	url = https://github.com/knah/Il2CppAssemblyUnhollower
+[submodule "Il2CppDumper"]
+	path = Il2CppDumper
+	url = https://github.com/Perfare/Il2CppDumper
+[submodule "SharpMonoInjector"]
+	path = SharpMonoInjector
+	url = https://github.com/shalzuth/SharpMonoInjector
